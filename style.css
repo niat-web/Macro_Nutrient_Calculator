@@ -29,7 +29,15 @@
   --inset-shadow: inset 6px 6px 10px var(--shadow-color),
   inset -6px -6px 10px #181818;
  }
- 
+ /* Ensure text color in recipe suggestion section is white in dark mode */
+[data-theme="dark"] #recipeSuggestion {
+    color: var(--text-color); /* White text in dark mode */
+  }
+  
+  /* Ensure card body text color is white in dark mode */
+  [data-theme="dark"] .card-body {
+    color: var(--text-color); /* White text in dark mode */
+  }
 
  body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

@@ -4,7 +4,7 @@
 This project is a web application designed to calculate daily macronutrient needs (carbohydrates, protein, and fat) based on user-provided information such as age, weight, height, gender, activity level, and fitness goals. It also includes a dark mode toggle for improved user experience and dynamically fetches and displays recipe suggestions from a remote API. The application primarily uses HTML, CSS, and JavaScript for front-end development and interaction, leveraging the DOM to manipulate content dynamically.
 
 ## Output
-<iframe src="https://niat-web.github.io/Macro_Nutrient_Calculator" height="1000" width="300" title="Macro_Nutrient_Calculator"></iframe>
+<iframe src="https://niat-web.github.io/Macro_Nutrient_Calculator/" height="1000" width="300" title="Macro_Nutrient_Calculator"></iframe>
 
 ## Project Requirements
 **Technologies:** HTML, CSS, JavaScript
